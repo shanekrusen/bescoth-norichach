@@ -1,0 +1,22 @@
+body {
+  margin-left: 0px; }
+
+.header {
+  color: #49ca13;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center; }
+
+.header h1 {
+  align-self: center;
+  text-align: center; }
+
+.italic-script {
+  font-family: "noto_sans_old_italicregular", sans-serif; }

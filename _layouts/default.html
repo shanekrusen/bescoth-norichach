@@ -9,9 +9,15 @@
       <link rel="stylesheet" href="{{ '/assets/fonts.css' | relative_url }}" />
     </head>
     <body>
-        <nav class="header">
+        <div class="header">
             <h1 class="italic-script">{{ site.name }}</h1>
+        </div>
+        <nav class="nav-links">
+          <div class="link">Home</div>
+          <div class="link">Posts</div>
+          <div class="link">Theology</div>
         </nav>
+        <div class="spacer"></div>
         <br />
         {{ content }}
     </body>

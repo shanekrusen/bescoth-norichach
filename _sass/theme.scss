@@ -1,3 +1,6 @@
+---
+---
+
 $green: #D80010;
 $header-height: 250px;
 
@@ -15,7 +18,7 @@ body a {
 
 .header {
   color: white;
-  background-image: url('/assets/img/header-back.jpg');
+  background-image: url({{ '/assets/img/header-back.jpg' | relative_url }});
   background-size: cover;
   background-repeat: no-repeat;
   background-color: $green;

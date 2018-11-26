@@ -1,0 +1,32 @@
+.content-wrapper {
+  width: 100%;
+  height: auto;
+  display: table;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-wrapper h2 {
+  width: 100%;
+  text-align: center;
+}
+
+.content-container {
+  width: 76%;
+  margin-left: 5px;
+  display: table-cell;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.sidebar {
+  width: 12%;
+  background-color: gainsboro;
+  display: table-cell;
+}
+
+@media only screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+}

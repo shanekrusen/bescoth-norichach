@@ -1,4 +1,5 @@
-$green: #D80010;
+$green: #49CA13;
+$red: #ED2939;
 $header-height: 250px;
 
 html, body {
@@ -7,6 +8,7 @@ html, body {
 
 body {
   margin: 0px;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 body a {
@@ -28,6 +30,17 @@ body a {
   justify-content: center;
 }
 
+.mobile-menu {
+  visibility: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
 .sticky {
   position: fixed;
   top: 0;
@@ -40,10 +53,11 @@ body a {
 .nav-links {
   width: 100%;
   height: 50px;
-  color: $green;
+  color: $red;
   box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
   display: flex;
   background-color: white;
+  z-index: 9999;
 }
 
 .link {
@@ -75,6 +89,26 @@ body a {
     align-items: center;
     justify-content: center;
   }
+}
+
+.mobile-link {
+  color: darkgrey;
+  height: 50px;
+  width: 100%;
+  border-bottom: 1px solid gainsboro;
+  display: flex;
+  align-items: center;
+}
+
+.mobile-link i {
+  width: 100%;
+}
+
+#menu-close {
+  height: 25px;
+  color: $red;
+  border-bottom: none;
+  text-align: right;
 }
 
 .spacer {

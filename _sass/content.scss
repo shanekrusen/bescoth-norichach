@@ -12,17 +12,20 @@
 }
 
 .content-container {
-  width: 76%;
+  width: 75%;
   margin-left: 5px;
   display: table-cell;
   box-sizing: border-box;
   padding: 10px;
+  border-right: 1px solid gainsboro;
 }
 
 .sidebar {
-  width: 12%;
-  background-color: gainsboro;
+  width: 25%;
+  background-color: white;
   display: table-cell;
+  z-index: 0;
+  position: relative;
 }
 
 @media only screen and (max-width: 768px) {

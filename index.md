@@ -1,23 +1,30 @@
 ---
-title: Am Dengu, Súéas, ach Ráiádhan // On Language, Identity, and Purpose
+title: Am Dengu, Swêas, ach Râiâdhan // On Language, Identity, and Purpose
 layout: default
 ---
 
 ## {{ page.title }}
 
-The phonetic values of the above graphemes has been discussed under the section “sound changes”.
- 
-As regards to “s-“ before a consonant, it is dropped, and marked in writing with an apostrophe. In the spoken language, the appearance of a radical in a mutational context indicates the elision of “s-”, therefore indicating the mutation of “s-“.
- 
-The various mutations of the modern Celtic languages are categorised according to the phonetic processes which occur, e.g. softening, hardening, nasalisation etc. All of the modern Celtic languages have different kinds and combinations of mutations, although there are deep fundamental resemblances among all of them. The mutations proposed for the modern Gaulish language consist of a combination of phonetic processes, mostly voicing and spriantisation (see above). Therefore, it is easiest to describe this mutation as a “mixed mutation”. However, its description is irrelevant, as there is only one change for each sound.
- 
-Contexts for mutation
- 
-The contexts for mutation have become apparent throughout this document. It is posited that mutation has become established as a system for assisting with the conveying of grammatical meaning in the wake of the loss of case endings and therefore meaning, as discussed previously. As such, they represent a simple switch from marking the end of words for meaning to marking the start of words for meaning. This position is supported by Isaac (2007) who argues that VSO languages have a greater innate tendency to modify words word initially than word finally.
- 
-There are two kinds of contexts for mutation: contact mutation and grammatical mutation. The contact mutation category is the largest one. In contact mutation, a mutation is triggered by a lexeme immediately preceding the word affected. In grammatical mutation, a mutation is bestowed because of a grammatical condition or requirement, which may or may not be caused by a lexeme immediately preceding the word affected.
- 
-Contact mutations do not necessarily convey grammatical meaning in themselves; instead they usually assist in the marking of such meaning. However, such meaning would not be apparent in the absence of the lexemes triggering the mutation. As such, it can be said that a large part of the mutations featured in modern Gaulish are phonetic mutations rather than grammatical mutations. This situation is similar to the one prevailing in modern Breton, Welsh and Cornish, where some mutations occur for no apparent reason and carry no apparent grammatical meaning.
+Swâel! (Welcome!) Welcome to Bescoth Norichach, a modern attempt to chronicle, revive, flesh out, and update the old Celtic relgious practices of the Eastern Alpine Celts, especially those of:
+
++ the Carni
++ and the Taurisci Federation:
+  - the Alauni
+  - the Ambidravi/Ambidrani
+  - the Ambilici
+  - the Ambisontes/Ambisontii
+  - the Norici
+  - the Sevaces
+
+For the purpose of clarity in the rest of this project, I will likely refer to this tradition as "Norican" or "Norichach", after the Kingdom of Noricum, although the Norici were likely just a part of the larger Taurisci federation.
+
+Before I continue, I would like to thank Selgowiros Caranticnos of Senobessus Bolgon (which you may find [here](https://senobessusbolgon.wordpress.com/)) for the incredible work he has done in bringing to life the old customs of the Belgae, and for the encouragement and inspiration he has given me to pursue this project. For both I am grateful.
+
+As a member of the Gaulish Polytheist Community, and an aspiring member of the Toutâ Galation (both of which you may find [here](https://www.facebook.com/groups/162531797160858/) and [here](https://www.facebook.com/groups/933692526717833/), respectively), I will not condone, and in fact will condemn, exclusion of anyone from this religious practice on the basis of race, gender, sexual orientation, or anything of the like. It is unfortunate that I must specify this, and even more unfortunate that other groups taint the name of this beautiful religious custom (as well as many others) and co-opt them for their hate. I will have none of it here.
+
+I find it also important here to explain my choice of liturgical language, and the liberties I have taken with it. I find that regular use of the Gaulish Language, in any form, is the single best way to reconnect with the past. Here I will likey often use "Gaulish" to refer to Continental Celtic as a whole; although the two are not synonymous, it is likely that the language of Celts accross the Continent was mostly mutually intelligible. Many of us within the community will also refer to the different varieties of reconstructed Gaulish as "dialects", although the word is not used quite as it is meant. For this project, most of the liturgical vocabulary will be presented in Galâthach hAthevîu, or Modern Gaulish. It is a form of reconstructed Gaulish meant to represent the evolution of Gaulish into modern-day, had it survived antiquity. It follows the traces of sound and grammar in the late Gaulish inscriptions through to completion, and as a result bears only a superficial resemblance to Gaelic, more due to orthography than anything else. In vocabulary, phonology, and morphology, it is wholly Gaulish. I will, however, diverge from standard orthography by making use of the circumflex instead of the acute accent for long vowels. This is purely an aesthetic choice. I will be using Modern Gaulish not because I prefer to reconstructions of Classical Gaulish, but simply because it is the variety of Gaulish which I am most familiar with, most comfortable with, and find easiest to use. More information on Modern Gaulish can be found [here](http://moderngaulish.com/).
+
+I will over the next few months or years aim to gather the disparate sources I have managed to collect on the religion and culture of the Norican Celts in order to, hopefully, bring them to life and, in time, present a through and cohesive structure for Norican theology and worship, and I especially look forward to building a community.
 
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.

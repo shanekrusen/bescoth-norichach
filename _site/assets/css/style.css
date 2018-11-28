@@ -33,7 +33,7 @@ body a {
   padding: 10px;
   z-index: 3; }
 
-.sticky + .content-wrapper {
+.sticky + .fab + .content-wrapper {
   padding-top: 50px; }
 
 .nav-links {
@@ -66,6 +66,67 @@ body a {
 .nav-mobile-link h1 {
   text-decoration: italic; }
 
+.fab {
+  width: 56px;
+  min-height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 222px;
+  right: 15px;
+  border-radius: 500px;
+  background-color: #ED2939;
+  box-shadow: 0 6px 10px 0 #666; }
+
+.fab-button {
+  width: 56px;
+  min-height: 56px;
+  background-color: #ED2939;
+  border-radius: 50%;
+  color: white; }
+
+.fab-actions {
+  display: none;
+  height: 112px;
+  width: 56px; }
+
+.fab-link {
+  width: 56px;
+  height: 56px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold; }
+
+.fab-button, .fab-link {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.fab-link .link-tooltip {
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  right: 125%;
+  margin-left: -60px; }
+
+.fab-link .link-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 35%;
+  left: 100%;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #555; }
+
 @media only screen and (max-width: 768px) {
   .link {
     display: none; }
@@ -73,7 +134,13 @@ body a {
   .nav-mobile-link {
     display: flex;
     align-items: center;
-    justify-content: center; } }
+    justify-content: center; }
+
+  .nav-links {
+    display: none; } }
+@media only screen and (min-width: 768px) {
+  .fab {
+    display: none; } }
 .mobile-link {
   color: darkgrey;
   height: 50px;

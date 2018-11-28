@@ -1,12 +1,14 @@
-window.onload = function() {
+$(document).ready(function() {
   var header = document.getElementById("nav-links");
   var sticky = header.offsetTop;
   
-  window.onscroll = function() {
-    if (window.pageYOffset > sticky) {
-      header.classList.add("sticky");
-    } else {
-      header.classList.remove("sticky");
+  if (!$( "#nav-links" ).is(":hidden")) {
+    window.onscroll = function() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
     }
   }
   
@@ -21,4 +23,8 @@ window.onload = function() {
   menuClose.onclick = function() {
     menu.style.visibility = "hidden";
   }
-}
+  
+  $( "#fab-expand").click(function() {
+    $( "#fab-actions" ).slideToggle();
+  });
+});

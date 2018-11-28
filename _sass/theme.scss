@@ -1,4 +1,4 @@
-$green: #49CA13;
+// $red: #49CA13;
 $red: #ED2939;
 $header-height: 250px;
 
@@ -42,7 +42,7 @@ body a {
   z-index: 3;
 }
 
-.sticky + .content-wrapper {
+.sticky + .fab + .content-wrapper {
   padding-top: 50px;
 }
 
@@ -81,6 +81,74 @@ body a {
   text-decoration: italic;
 }
 
+.fab {
+  width: 56px;
+  min-height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 222px;
+  right: 15px;
+  border-radius: 500px;
+  background-color: $red;
+  box-shadow: 0 6px 10px 0 #666;
+}
+
+.fab-button {
+  width: 56px;
+  min-height: 56px;
+  background-color: $red;
+  border-radius: 50%;
+  color: white;
+}
+
+.fab-actions {
+  display: none;
+  height: 112px;
+  width: 56px;
+}
+
+.fab-link {
+  width: 56px;
+  height: 56px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.fab-button, .fab-link {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fab-link .link-tooltip {
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  right: 125%;
+  margin-left: -60px;
+}
+
+.fab-link .link-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 35%;
+  left: 100%;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #555;
+}
+
 @media only screen and (max-width: 768px) {
   .link {
     display: none;
@@ -90,6 +158,16 @@ body a {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  
+  .nav-links {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .fab {
+    display: none;
   }
 }
 

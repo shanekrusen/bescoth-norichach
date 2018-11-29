@@ -1,9 +1,11 @@
 ---
-title: Am Dengu, Swêas, ach Râiâdhan // On Language, Identity, and Purpose
+title: Am Dengu, Swêas, ach Râiâdhan
+titleTwo: On Language, Identity, and Purpose
 layout: default
 ---
 
 ## {{ page.title }}
+### {{ page.titleTwo }}
 
 Swâel! (Welcome!) Welcome to Bescoth Norichach, a modern attempt to chronicle, revive, flesh out, and update the old Celtic relgious practices of the Eastern Alpine Celts, especially those of:
 

@@ -33,6 +33,11 @@ body a {
   padding: 10px;
   z-index: 3; }
 
+.mobile-header {
+  height: 50px;
+  width: 100%;
+  background-color: #ED2939; }
+
 .sticky + .fab + .content-wrapper {
   padding-top: 50px; }
 
@@ -74,7 +79,7 @@ body a {
   align-items: center;
   justify-content: center;
   position: absolute;
-  top: 222px;
+  top: 272px;
   right: 15px;
   border-radius: 500px;
   background-color: #ED2939;
@@ -89,7 +94,6 @@ body a {
 
 .fab-actions {
   display: none;
-  height: 112px;
   width: 56px; }
 
 .fab-link {
@@ -173,7 +177,7 @@ body a {
   list-style-type: none;
   margin-left: -40px; }
 
-.footer-wrapper li, p {
+.footer-wrapper li, .footer-wrap p {
   color: grey; }
 
 .footer-wrapper {
@@ -206,9 +210,18 @@ footer h2 {
   align-items: center;
   justify-content: center; }
 
-.content-wrapper h2 {
+p {
+  text-align: justify; }
+
+.content-wrapper h2, .content-wrapper h3 {
   width: 100%;
   text-align: center; }
+
+.content-wrapper h3 {
+  margin-top: -25px;
+  font-style: italic;
+  font-weight: regular;
+  color: grey; }
 
 .content-container {
   width: 75%;

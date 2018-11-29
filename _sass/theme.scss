@@ -42,6 +42,12 @@ body a {
   z-index: 3;
 }
 
+.mobile-header {
+  height: 50px;
+  width: 100%;
+  background-color: $red;
+}
+
 .sticky + .fab + .content-wrapper {
   padding-top: 50px;
 }
@@ -89,7 +95,7 @@ body a {
   align-items: center;
   justify-content: center;
   position: absolute;
-  top: 222px;
+  top: 272px;
   right: 15px;
   border-radius: 500px;
   background-color: $red;
@@ -106,7 +112,7 @@ body a {
 
 .fab-actions {
   display: none;
-  height: 112px;
+  // height: 112px;
   width: 56px;
 }
 
@@ -210,7 +216,7 @@ body a {
   margin-left: -40px;
 }
 
-.footer-wrapper li,p {
+.footer-wrapper li, .footer-wrap p {
   color: grey;
 }
 

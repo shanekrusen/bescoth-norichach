@@ -6,9 +6,20 @@
   justify-content: center;
 }
 
-.content-wrapper h2 {
+p {
+  text-align: justify;
+}
+
+.content-wrapper h2,.content-wrapper h3 {
   width: 100%;
   text-align: center;
+}
+
+.content-wrapper h3 {
+  margin-top: -25px;
+  font-style: italic;
+  font-weight: regular;
+  color: grey;
 }
 
 .content-container {

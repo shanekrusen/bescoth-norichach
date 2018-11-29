@@ -34,7 +34,7 @@ body a {
   z-index: 3; }
 
 .mobile-header {
-  height: 50px;
+  height: 25px;
   width: 100%;
   background-color: #ED2939; }
 
@@ -79,7 +79,7 @@ body a {
   align-items: center;
   justify-content: center;
   position: absolute;
-  top: 272px;
+  top: 247px;
   right: 15px;
   border-radius: 500px;
   background-color: #ED2939;

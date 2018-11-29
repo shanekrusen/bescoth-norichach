@@ -216,14 +216,9 @@ h2, h3 {
   align-items: center;
   justify-content: center; }
 
-.content-wrapper h2, .content-wrapper h3 {
-  width: 100%; }
-
-.content-wrapper h3 {
-  margin-top: -25px;
-  font-style: italic;
-  font-weight: regular;
-  color: grey; }
+.content-wrapper h2 {
+  width: 100%;
+  font-weight: 600; }
 
 .content-container {
   width: 75%;

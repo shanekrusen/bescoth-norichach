@@ -100,7 +100,13 @@ body a {
   height: 56px;
   color: white;
   font-size: 20px;
-  font-weight: bold; }
+  font-weight: bold;
+  display: flex;
+  flex-direction: column; }
+
+.fab-link small {
+  font-style: italic;
+  font-size: 10px; }
 
 .fab-button, .fab-link {
   text-align: center;
@@ -143,6 +149,9 @@ body a {
     display: none; } }
 @media only screen and (min-width: 768px) {
   .fab {
+    display: none; }
+
+  .mobile-header {
     display: none; } }
 .mobile-link {
   color: darkgrey;
@@ -176,7 +185,7 @@ body a {
   list-style-type: none;
   margin-left: -40px; }
 
-.footer-wrapper li, .footer-wrap p {
+.footer-wrapper li, .footer-wrapper p {
   color: grey; }
 
 .footer-wrapper {
@@ -234,6 +243,27 @@ h2, h3 {
   display: table-cell;
   z-index: 0;
   position: relative; }
+
+.card {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-sizing: border-box;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+.card h2 {
+  margin-bottom: 5px;
+  text-align: center; }
+
+.card small {
+  color: grey;
+  width: 95%;
+  text-align: center;
+  display: block;
+  border-bottom: 1px solid grey; }
 
 @media only screen and (max-width: 768px) {
   .sidebar {

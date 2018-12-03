@@ -121,6 +121,13 @@ body a {
   color: white;
   font-size: 20px;
   font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.fab-link small {
+  font-style: italic;
+  font-size: 10px;
 }
 
 .fab-button, .fab-link {
@@ -174,6 +181,10 @@ body a {
   .fab {
     display: none;
   }
+  
+  .mobile-header {
+    display: none;
+  }
 }
 
 .mobile-link {
@@ -215,7 +226,7 @@ body a {
   margin-left: -40px;
 }
 
-.footer-wrapper li, .footer-wrap p {
+.footer-wrapper li, .footer-wrapper p {
   color: grey;
 }
 

@@ -1,62 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <meta name="HandheldFriendly" content="true" />
-		  <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0"/>
-		  <meta name="theme-color" content="#ED29395">
-      <title>Bescoth Norichach</title>
-      <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
-      <link rel="stylesheet" href="{{ '/assets/fonts.css' | relative_url }}" />
-      <script type="text/javascript" src="{{ '/assets/js/jquery.js' | relative_url }}"></script>
-      <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7343874862059411",
-          enable_page_level_ads: true
-        });
-      </script>
+      {% include head.html %}
     </head>
     <body>
-        <div class="mobile-header"></div>
-        <div class="header" style="background-image: url({{ '/assets/img/header-back.jpg' | relative_url }});">
-            <h1 class="italic-script">{{ site.name }}</h1>
-        </div>
-        <nav class="nav-links" id="nav-links">
-          <div class="link">Home</div>
-          <div class="link">Posts</div>
-          <div class="link">Theology</div>
-          <div class="nav-mobile-link" id="nav-mobile-link">
-            <i>Menu</i>
-          </div>
-        </nav>
-        <div class="fab">
-          <div class="fab-button" id="fab-expand">
-            ☰
-          </div>
-          <div class="fab-actions" id="fab-actions">
-            <div class="fab-link">
-              <!--<span class="link-tooltip">Home</span>-->
-              🏠
-            </div>
-            <div class="fab-link">
-              <!--<span class="link-tooltip">About</span>-->
-              🏛
-            </div>
-            <div class="fab-link">
-              <!--<span class="link-tooltip">About</span>-->
-              🔥
-            </div>
-            <div class="fab-link">
-              <!--<span class="link-tooltip">About</span>-->
-              🌍
-            </div>
-            <div class="fab-link">
-              <!--<span class="link-tooltip">About</span>-->
-              📖
-            </div>
-          </div>
-        </div>
+        {% include navigation.html %}
         <div class="content-wrapper">
           <div class="content-container">
             {{ content }}
@@ -65,35 +13,6 @@
             
           </div>
         </div>
-        <footer>
-          <h2>Bescoth Norichach</h2>
-          <div class="footer-wrapper">
-            <div class="footer-col">
-              <ul>
-                <li>Bescoth Norichach</li>
-                <li><a href="mailto:shanekrusen@gmail.com">shanekrusen@gmail.com</a></li>
-              </ul>
-            </div>
-            <div class="footer-col">
-              <ul>
-                <li>
-                  <a href="https://github.com/shanekrusen">
-                    <svg class="svg-icon"><use xlink:href="{{ '/assets/img/minima-social-icons.svg#github' | relative_url }}"></use></svg>
-                    shanekrusen
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.twitter.com/shanekrusen">
-                    <svg class="svg-icon"><use xlink:href="{{ '/assets/img/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
-                    shanekrusen
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="footer-col">
-              <p>Religious and Cultural customs of the Eastern Alpine Celts.</p>
-            </div>
-          </div>
-        </footer>
+        {% include footer.html %}
     </body>
 </html>

@@ -93,7 +93,8 @@ body a {
 
 .fab-actions {
   display: none;
-  width: 56px; }
+  width: 56px;
+  padding-bottom: 5px; }
 
 .fab-link {
   width: 56px;
@@ -213,7 +214,8 @@ footer h2 {
 
 .body {
   color: rgba(0, 0, 0, 0.84);
-  font-family: Georgia, Times, serif; }
+  font-family: Georgia, Times, serif;
+  overflow-y: none; }
 
 h2, h3 {
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; }
@@ -221,7 +223,6 @@ h2, h3 {
 .content-wrapper {
   width: 100%;
   height: auto;
-  display: table;
   align-items: center;
   justify-content: center; }
 
@@ -231,16 +232,16 @@ h2, h3 {
 
 .content-container {
   width: 75%;
-  margin-left: 5px;
-  display: table-cell;
   box-sizing: border-box;
   padding: 10px;
-  border-right: 1px solid gainsboro; }
+  border-right: 1px solid gainsboro;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; }
 
 .sidebar {
   width: 25%;
   background-color: white;
-  display: table-cell;
   z-index: 0;
   position: relative; }
 
@@ -252,7 +253,12 @@ h2, h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  margin-bottom: 10px;
+  border-radius: 10px; }
+
+.card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); }
 
 .card h2 {
   margin-bottom: 5px;
@@ -267,4 +273,10 @@ h2, h3 {
 
 @media only screen and (max-width: 768px) {
   .sidebar {
-    display: none; } }
+    display: none; }
+
+  .content-container {
+    width: 100%; } }
+@media only screen and (min-width: 768px) {
+  .card {
+    width: 45%; } }

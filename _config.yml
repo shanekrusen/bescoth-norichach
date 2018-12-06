@@ -2,7 +2,8 @@ name: 𐌙𐌀𐌙𐌉𐌓𐌏𐌍 𐌈𐌏𐌂𐌔𐌄𐌁
 # name: 𐌙𐌀𐌂𐌔𐌉𐌓𐌖𐌀𐌕 𐌈𐌏𐌂𐌔𐌄𐌁
 url: "https://shanekrusen.github.io/bescoth-norichach/"
 collections:
-    - articles
+    articles:
+      output: true
 
 #build
 host: 0.0.0.0

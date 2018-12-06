@@ -1,5 +1,5 @@
 ---
-title: Rîthîûas Lithal // Ritual Format
+title: "Rîthîûas Lithal // Ritual Format"
 category: Ritual
 layout: default
 ---

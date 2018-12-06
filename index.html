@@ -22,13 +22,15 @@
               {% endif %}
             {% endfor %}
             {% for article in site.articles %}
-              <div class="card">
-                <h2>{{ article.title }}</h2>
-                <small>{{ article.category }}</small>
-                <p>
-                  {{ article.content | markdownify | truncatewords:29 }}
-                </p>
-              </div>
+              <a href="{{ article.url }}" class="card-link">
+                <div class="card a-card">
+                  <h2>{{ article.title }}</h2>
+                  <small>{{ article.category }}</small>
+                  <p>
+                    {{ article.content | markdownify | truncatewords:29 }}
+                  </p>
+                </div>
+              </a>
             {% endfor %}
           </div>
         </div>

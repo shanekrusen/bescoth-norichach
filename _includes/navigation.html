@@ -4,11 +4,9 @@
 </div>
 <nav class="nav-links" id="nav-links">
   <div class="link">Home</div>
-  <div class="link">Posts</div>
+  <div class="link">About</div>
   <div class="link">Theology</div>
-  <div class="nav-mobile-link" id="nav-mobile-link">
-    <i>Menu</i>
-  </div>
+  <div class="link">Reading</div>
 </nav>
 <div class="fab">
   <div class="fab-button" id="fab-expand">
@@ -16,14 +14,18 @@
   </div>
   <div class="fab-actions" id="fab-actions">
     <div class="fab-link">
-      <!--<span class="link-tooltip">Home</span>-->
-      <i class="material-icons">home</i>
-      <small>Home</small>
+      <a href="{{ site.baseurl }}{% link index.html %}" class="nav-link">
+        <!--<span class="link-tooltip">Home</span>-->
+        <i class="material-icons">home</i>
+        <small>Home</small>
+      </a>
     </div>
     <div class="fab-link">
-      <!--<span class="link-tooltip">About</span>-->
-      <i class="material-icons">device_unknown</i>
-      <small>About</small>
+      <a href="{{ site.baseurl }}{% link about.md %}" class="nav-link">
+        <!--<span class="link-tooltip">About</span>-->
+        <i class="material-icons">device_unknown</i>
+        <small>About</small>
+      </a>
     </div>
     <div class="fab-link">
       <!--<span class="link-tooltip">About</span>-->

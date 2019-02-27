@@ -30,7 +30,7 @@ Although Noreia, as she existed in history, was likely more important to Roman a
 
 3. Die in Noricum belegten Gottheiten und die römisch-keltische Widmung aus Schloβ Seggau by Patrizia de Bernardo Stempel, 2005, in Keltische Götter im Römischen Reich, 2005, p. 22
 
-4. 1. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 35
+4. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 35
 
 5. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 33
 

@@ -12,13 +12,15 @@
           <div class="content-container">
             {% for page in site.pages %}
               {% if page.title == "Am Dengu, Swêas, ach Râiâdhan // On Language, Identity, and Purpose" %}
-                <div class="card">
-                  <h2>{{ page.title }}</h2>
-                  <small><i class="material-icons">flag</i>Pinned</small>
-                  <p>
-                    {{ page.content | markdownify | truncatewords:29 }}
-                  </p>
-                </div>
+                <a href="{{ page.url }}" class="card-link">
+                    <div class="card a-card">
+                        <h2>{{ page.title }}</h2>
+                        <small><i class="material-icons">flag</i>Pinned</small>
+                        <p>
+                            {{ page.content | markdownify | truncatewords:29 }}
+                        </p>
+                    </div>
+                </a>
               {% endif %}
             {% endfor %}
             {% for article in site.articles %}

@@ -60,7 +60,8 @@ body a {
   text-align: center;
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  cursor: pointer; }
 
 .nav-mobile-link {
   display: none;
@@ -299,4 +300,4 @@ h2, h3 {
 
   .card-link {
     display: flex;
-    width: 50%; } }
+    width: 49%; } }

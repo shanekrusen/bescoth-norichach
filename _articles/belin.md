@@ -28,7 +28,7 @@ Traditionally Belinos is associated with Apollo, but He may also have functions 
 
 **Iconogrpahy:**
 
-On Celtic coins, Belinos is often depicted as a youthful or young man, often mimicking depictions of Apollo on Roman and Greek coins.\[15] This portrayal of Him may also be supported by a potential depiction of Him in the form of a statue from the shrine at Magdalensberg.\[16]
+On Celtic coins, Belinos is often depicted as a youthful or young man, mimicking depictions of Apollo on Roman and Greek coins.\[15] This portrayal of Him may also be supported by a potential depiction of Him in the form of a statue from the shrine at Magdalensberg.\[16]
 
 **Sources**
 

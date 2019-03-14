@@ -77,6 +77,10 @@ body a {
   cursor: pointer;
 }
 
+.link a {
+  text-decoration: none;
+}
+
 .nav-mobile-link {
   display: none;
   width: 100%;

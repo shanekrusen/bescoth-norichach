@@ -243,6 +243,9 @@ h2, h3 {
   width: 100%;
   font-weight: 600; }
 
+.content-wrapper p {
+  width: 100%; }
+
 .content-container {
   width: 75%;
   box-sizing: border-box;

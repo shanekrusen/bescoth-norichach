@@ -8,8 +8,7 @@ body a {
   color: #ED2939; }
 
 .header {
-  color: #ED2939;
-  text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px, #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+  color: white;
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #ED2939;

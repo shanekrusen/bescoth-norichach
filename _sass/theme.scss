@@ -29,24 +29,6 @@ body a {
   justify-content: center;
 }
 
-.mobile-menu {
-  visibility: hidden;
-  height: 100%;
-  width: 100%;
-  background-color: white;
-  position: fixed;
-  top: 0;
-  box-sizing: border-box;
-  padding: 10px;
-  z-index: 3;
-}
-
-.mobile-header {
-  height: 25px;
-  width: 100%;
-  background-color: $red;
-}
-
 .sticky + .content-wrapper {
   padding-top: 50px;
 }
@@ -69,6 +51,7 @@ body a {
 }
 
 .link {
+  width: 33%;
   display: inline-block;
   text-align: center;
   display: flex;
@@ -79,16 +62,6 @@ body a {
 
 .link a {
   text-decoration: none;
-}
-
-.nav-mobile-link {
-  display: none;
-  width: 100%;
-  text-align: center;
-}
-
-.nav-mobile-link h1 {
-  text-decoration: italic;
 }
 
 
@@ -102,23 +75,28 @@ body a {
   cursor: pointer;
 }
 
-@media only screen and (min-width: 768px) {
-  .fab {
+.nav-drop {
+    width: 100%;
     display: none;
-  }
+    position: absolute;
+    top: 50px;
+    background-color: white;
+    box-shadow: 0 1px 1px 1px rgba(0,0,0,.2);
+    left: 0%;
+    z-index: 1;
 }
 
-.mobile-link {
-  color: darkgrey;
-  height: 50px;
-  width: 100%;
-  border-bottom: 1px solid gainsboro;
-  display: flex;
-  align-items: center;
-}
-
-.mobile-link i {
-  width: 100%;
+.nav-drop * {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gainsboro;
+    font-weight: bold;
 }
 
 #menu-close {

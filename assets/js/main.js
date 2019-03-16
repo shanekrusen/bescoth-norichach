@@ -12,7 +12,7 @@ $(document).ready(function() {
     }
   }
   
-  $( "#fab-expand").click(function() {
-    $( "#fab-actions" ).slideToggle();
+  $( "#theology").click(function() {
+    $( "#nav-drop" ).slideToggle();
   });
 });

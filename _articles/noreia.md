@@ -1,5 +1,6 @@
 ---
 title: "Am in Bêthan 'Norêia' // On the 'Noreia' Question"
+short_title: "Norêia"
 category: Deities
 layout: default
 ---

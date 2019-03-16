@@ -4,6 +4,13 @@
 <nav class="nav-links" id="nav-links">
     <div class="link"><a href="{{ site.baseurl }}{% link index.html %}">Home</a></div>
     <div class="link"><a href="{{ site.baseurl }}{% link about.md %}">About</a></div>
-  <!--<div class="link">Theology</div>
-  <div class="link">Reading</div>-->
+    <div class="link" id="theology">Theology</div>
+    <div class="nav-drop" id="nav-drop">
+        <span>Deities</span>
+        {% for article in site.articles %}
+            {% if article.category == "Deities" %}
+                <a href="{{ article.url }}">&emsp;{{ article.short_title }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
 </nav>

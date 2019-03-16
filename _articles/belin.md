@@ -1,5 +1,6 @@
 ---
 title: "Bêlin ach Adhghavûê // Belinos and Assumptions"
+short_title: "Bêlin"
 category: Deities
 layout: default
 ---

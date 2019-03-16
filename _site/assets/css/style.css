@@ -48,7 +48,8 @@ body a {
   display: flex;
   background-color: white;
   z-index: 2;
-  position: relative; }
+  position: relative;
+  justify-content: space-around; }
 
 .sticky {
   position: fixed;

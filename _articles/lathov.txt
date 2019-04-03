@@ -1,0 +1,10 @@
+---
+title: "Lathov // Latobius"
+short_title: "Sinath"
+category: Deities
+layout: default
+---
+
+**Etymology:**
+
+The first satisfactory etymology of *Latobios* 

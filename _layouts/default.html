@@ -2,16 +2,9 @@
 <html>
     <head>
       <title>Bescoth Norichach - {{ page.title }}</title>
-      <meta name="description" content="{{ content | truncatewords:155 }}" />
-
-      <!-- Twitter Card data -->
       <meta name="twitter:title" content="{{ page.title }}">
-      <meta name="twitter:description" content="{{ content | truncatewords:155 }}">
       <meta name="twitter:image" content="{{ '/assets/img/header-back.jpg' | relative_url }}">
-
-      <!-- Open Graph data -->
-      <meta property="og:title" content="{{ page.title }}" />
-      <meta property="og:description" content="{{ content | truncatewords:155 }}" /> 
+      <meta property="og:title" content="{{ page.title }}" /> 
       <meta property="og:type" content="article" />
       <meta property="og:url" content="http://www.bescothnorichach.com/" />
       <meta property="og:image" content="{{ '/assets/img/header-back.jpg' | relative_url }}" />

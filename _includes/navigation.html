@@ -12,5 +12,11 @@
                 <a href="{{ article.url }}">&emsp;{{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
+        <span>Practice</span>
+        {% for article in site.articles %}
+            {% if article.category == "Practice" %}
+                <a href="{{ article.url }}">&emsp;{{ article.short_title }}</a>
+            {% endif %}
+        {% endfor %}
     </div>
 </nav>

@@ -8,7 +8,7 @@ layout: default
 As much as reconstructing and sourcing a full skeleton for Norican ritual here would be preferrable, considerable work has already been done towards this end in the world of Gaulish and PIE polytheism as a whole.\[1]\[2]\[3] In the sense of a practical modern religious practice, it is preferrable here to follow the lead of Selgowiros in dividing the ritual into four parts, briefly: 
 
 1. Invocation / Guthan
-    - GhA: Gutha mi Sirath, dê tiochovréith, dê rêith, tîern sînwârê, tîern îdhê.
+    - GhA: Gutha mi Sirath, dê tiochovrêith, dê rêith, tîern sînwârê, tîern îdhê.
     - En: I invoke Siratis, god of justice, god of law, lord of chains, lord of fetters.
 2. Argument / Urghâru
 3. Prayer / Gwêdhl

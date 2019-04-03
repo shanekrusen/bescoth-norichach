@@ -25,7 +25,7 @@ In Bescoth Norichach, *Latobius* (GhA: *Lathov*) will be a god similar to *Belin
 
 In a reconstructed marble statue from the sanctuary at Sankt Margarethen, He is portrayed with a crested helmet, a spear, and a shield.\[9]
 
-![Latobius]({{ '/assets/img/latobius.png' | relative_url }} "Latobius")
+<figure class="deity-image"><img src="{{ '/assets/img/latobius.png' | relative_url }}"></figure>
 
 **Sources** 
 
@@ -37,7 +37,7 @@ In a reconstructed marble statue from the sanctuary at Sankt Margarethen, He is 
 
 4. Die in Noricum belegten Gottheiten by Patrizia de Bernardo Stempel, 2005, p. 22
 
-5. 8. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 29
+5. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 29
 
 6. Die in Noricum belegten Gottheiten by Patrizia de Bernardo Stempel, 2005, p. 22
 

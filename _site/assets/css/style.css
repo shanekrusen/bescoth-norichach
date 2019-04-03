@@ -159,6 +159,9 @@ h2, h3 {
   flex-wrap: wrap;
   justify-content: space-around; }
 
+.deity-image {
+  align-self: center; }
+
 .sidebar {
   width: 25%;
   background-color: white;

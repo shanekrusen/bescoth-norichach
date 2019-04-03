@@ -7,7 +7,7 @@ layout: default
 
 **Etymology:**
 
-The most recent satisfactory etymology of *Latobios* comes from Wolfgang Meid, and his interpretation faces next to no criticism. Meid interprets the divine name in full as "He who strikes with fury", from Celtic \**lāto-biyos* with a literal meaning closer to "in fighting fury".\[1]\[2] This interpretation is supported by de Bernardo Stempel in 2003\[3], and again in 2005.\[4]
+The most recent satisfactory etymology of *Latobius* comes from Wolfgang Meid, and his interpretation faces next to no criticism. Meid interprets the divine name in full as "He who strikes with fury", from Celtic \**lāto-biyos* with a literal meaning closer to "in fighting fury".\[1]\[2] This interpretation is supported by de Bernardo Stempel in 2003\[3], and again in 2005.\[4]
 
 **Function:**
 

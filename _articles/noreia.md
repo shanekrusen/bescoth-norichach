@@ -31,6 +31,8 @@ Traditionally, Noreia is conflated with Isis, although this is probably due, mai
 
 This category is hard to ascribe to Noreia, as no pre-Roman depiction of Her has yet been found, and the Roman depictions that do exist have already been drastically influenced by *interpretatio* and her association with Isis, through which she is often portrayed carrying a cornucopia and adorned in toga and jewelry. Only one known statue is often attributed to Her, as well as two relief carvings, but Šašel Kos, probably correct in her skepticism, makes the point that the evidence for the association of Noreia with these depictions is tentative at best.\[10\]
 
+<figure class="deity-image"><img src="{{ '/assets/img/noreia.png' | relative_url }}"></figure>
+
 **Sources**
 
 1. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 33

@@ -6,16 +6,16 @@
     <div class="link"><a href="{{ site.baseurl }}{% link about.md %}">About</a></div>
     <div class="link" id="theology">Theology</div>
     <div class="nav-drop" id="nav-drop">
-        <span>Deities</span>
+        <span>Dêiê/Deities</span>
         {% for article in site.articles %}
             {% if article.category == "Deities" %}
-                <a href="{{ article.url }}">&emsp;{{ article.short_title }}</a>
+                <a href="{{ article.url }}">&emsp;· {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
-        <span>Practice</span>
+        <span>Tarâvan/Practice</span>
         {% for article in site.articles %}
             {% if article.category == "Practice" %}
-                <a href="{{ article.url }}">&emsp;{{ article.short_title }}</a>
+                <a href="{{ article.url }}">&emsp;· {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
     </div>

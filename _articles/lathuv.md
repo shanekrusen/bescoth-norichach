@@ -1,6 +1,6 @@
 ---
 title: "Lâthuv // Latobius"
-short_title: "Lathov"
+short_title: "Lâthuv"
 category: Deities
 layout: default
 ---

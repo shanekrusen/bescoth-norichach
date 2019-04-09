@@ -1,5 +1,5 @@
 ---
-title: "Lathov // Latobius"
+title: "Lâthuv // Latobius"
 short_title: "Lathov"
 category: Deities
 layout: default
@@ -15,7 +15,7 @@ It is possible that *Latobius* is the titular tribal god of the Latobici.\[5] Th
 
 **In Practice:**
 
-In Bescoth Norichach, *Latobius* (GhA: *Lathov*) will be a god similar to *Belinos*, of particualr interest to the Latobici. He will oversee elements of healing, the solar cult, the water cult, of a *psychopomp*, and of combat. In this interpretation, he will be of particular interest for *Bes'nerth Nhorichach* or Norican athletic cult. 
+In Bescoth Norichach, *Latobius* (GhA: *Lâthuv*) will be a god similar to *Belinos*, of particualr interest to the Latobici. He will oversee elements of healing, the solar cult, the water cult, of a *psychopomp*, and of combat. In this interpretation, he will be of particular interest for *Bes'nerth Nhorichach* or Norican athletic cult. 
 
 **_Interpretatio:_**
 

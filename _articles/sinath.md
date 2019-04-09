@@ -25,6 +25,8 @@ It is hard to definitively ascribe *Sinatis* a Roman counterpart, although He is
 
 According to his name\[10], either chains/shackles or a collar. It is also possible that by comparison with similar deities on the Continent, the Torque would have been part of His iconography.\[11] 
 
+<figure class="deity-image"><img src="{{ '/assets/img/sinatis.png' | relative_url }}"></figure>
+
 **Sources**
 
 1. Die in Noricum belegten Gottheiten by Patrizia de Bernardo Stempel, 2005, p. 23

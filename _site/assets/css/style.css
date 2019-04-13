@@ -51,6 +51,9 @@ body a {
 .link a {
   text-decoration: none; }
 
+.link b {
+  border-bottom: 1px solid #ED2939; }
+
 .nav-link {
   color: white;
   text-decoration: none;

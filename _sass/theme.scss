@@ -64,6 +64,10 @@ body a {
   text-decoration: none;
 }
 
+.link b {
+    border-bottom: 1px solid $red;
+}
+
 
 .nav-link {
   color: white;

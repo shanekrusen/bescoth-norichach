@@ -160,7 +160,14 @@ h2, h3 {
   justify-content: space-around; }
 
 .deity-image {
-  align-self: center; }
+  align-self: center;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.deity-image img {
+  max-width: 80%; }
 
 .sidebar {
   width: 25%;

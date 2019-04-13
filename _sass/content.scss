@@ -36,6 +36,14 @@ h2, h3 {
 
 .deity-image {
     align-self: center;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.deity-image img {
+    max-width: 80%;
 }
 
 .sidebar {

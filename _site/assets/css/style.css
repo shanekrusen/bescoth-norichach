@@ -14,12 +14,15 @@ body a {
   background-color: #ED2939;
   background-position: center;
   width: 100%;
-  height: 250px;
+  height: calc(50% - 50px);
   text-align: center;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center; }
+
+.title {
+  max-width: 80%; }
 
 .sticky + .content-wrapper {
   padding-top: 50px; }

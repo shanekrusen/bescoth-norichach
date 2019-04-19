@@ -1,6 +1,6 @@
 // $red: #49CA13;
 $red: #ED2939;
-$header-height: 250px;
+$header-height: calc(50% - 50px);
 
 html, body {
   height: 100%;
@@ -27,6 +27,10 @@ body a {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+
+.title {
+    max-width: 80%;
 }
 
 .sticky + .content-wrapper {

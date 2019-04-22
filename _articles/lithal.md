@@ -1,6 +1,6 @@
 ---
-title: "Lithal Nhorichach // Norican Ritual"
-short_title: "Lithal/Ritual"
+title: "Litus Noricon // Norican Ritual"
+short_title: "Litus/Ritual"
 category: Practice
 layout: default
 ---

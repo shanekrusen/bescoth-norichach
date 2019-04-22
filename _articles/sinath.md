@@ -1,6 +1,6 @@
 ---
-title: "Sinath // Sinatis"
-short_title: "Sinath"
+title: "Sinatis"
+short_title: "Sinatis"
 category: Deities
 layout: default
 ---
@@ -15,7 +15,7 @@ It should come as no surprise, given the Etymology of His name and its relation 
 
 **In Practice:**
 
-In Bescoth Norichach, *Sinatis* (or *Sinath*) will be a god of justice and right, a virtue commonly associated with the Gaulish idea of "honor".\[6]
+In Bessus Noricon, *Sinatis* will be a god of justice and right, a virtue commonly associated with the Gaulish idea of "honor".\[6]
 
 **_Interpretatio:_**
 

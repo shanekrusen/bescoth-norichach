@@ -1,6 +1,6 @@
 ---
-title: "Bêlin ach Adhghavûê // Belinos and Assumptions"
-short_title: "Bêlin"
+title: "Belinos and Assumptions"
+short_title: "Belinos"
 category: Deities
 layout: default
 ---
@@ -21,7 +21,7 @@ As far as the function of Belinos is concerned, there are essentially two camps 
 
 **In Practice:**
 
-In Bescoth Norichach, Belinos will still serve the role that He has always traditionally been associated with. He will be a God of light and of healing, as well as a God giving general protection and aid to the Norican people. However, a deeper understanding of the origin of His name and how He came to fill this role allows for a unique perspective on the warlike aspects of Belinos and his association with strength. He will thus serve a role in a Norican athletic cult (*Bes'nerth* in GhA), a practice described in detail at Nertobessus.\[14]
+In Bessus Noricon, Belinos will still serve the role that He has always traditionally been associated with. He will be a God of light and of healing, as well as a God giving general protection and aid to the Norican people. However, a deeper understanding of the origin of His name and how He came to fill this role allows for a unique perspective on the warlike aspects of Belinos and his association with strength. He will thus serve a role in a Norican athletic cult (*Nertobessus*), a practice described in detail at Nertobessus.\[14]
 
 **Interpretatio Romana:**
 

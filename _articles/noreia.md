@@ -1,6 +1,6 @@
 ---
-title: "Am in Bêthan 'Norêia' // On the 'Noreia' Question"
-short_title: "Norêia"
+title: "On the 'Noreia' Question"
+short_title: "Noreia"
 category: Deities
 layout: default
 ---
@@ -21,7 +21,7 @@ It has been proposed (mainly, according to Šašel Kos, by Kenner and Takács) t
 
 **In Practice:**
 
-Although Noreia, as she existed in history, was likely more important to Roman administrators in Noricum than to the indigenous Celts, it has been proposed\[7\], and  is probably very likely, that some form of epichoric mother-goddess or female patron goddess was worshipped by the indigenous Noricans before their incorporation into the Roman state (although Zajaç provides no alternatives to Noreia). With this in mind, it is here proposed that Noreia be taken up as an epithet for this as of yet unknown patroness for the practices of Bescoth Norichach, as a possibly misused name for Her is better than no name at all.
+Although Noreia, as she existed in history, was likely more important to Roman administrators in Noricum than to the indigenous Celts, it has been proposed\[7\], and  is probably very likely, that some form of epichoric mother-goddess or female patron goddess was worshipped by the indigenous Noricans before their incorporation into the Roman state (although Zajaç provides no alternatives to Noreia). With this in mind, it is here proposed that Noreia be taken up as an epithet for this as of yet unknown patroness for the practices of Bessus Noricon, as a possibly misused name for Her is better than no name at all.
 
 **Interpretatio Romana:**
 

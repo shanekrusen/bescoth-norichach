@@ -1,6 +1,6 @@
 ---
-title: "Sêdhath // Sedatos"
-short_title: "Sêdhath"
+title: "Sedatos"
+short_title: "Sedatos"
 category: Deities
 layout: default
 ---
@@ -15,7 +15,7 @@ Perhaps in running with His name, *Sedatos* seems to have been a patron of craft
 
 **In Practice:**
 
-In Bescoth Norichach, *Sedatos* (GhA: *Sêdhath*), will be a God of craft and metalwork of all kinds, with a special association with fire, such as that of the forge.
+In Bessus Noricon, *Sedatos*, will be a God of craft and metalwork of all kinds, with a special association with fire, such as that of the forge.
 
 **Interpretatio:**
 

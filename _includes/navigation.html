@@ -21,7 +21,7 @@
         <span>Îwoi/Holidays</span>
         {% for article in site.articles %}
             {% if article.category == "Holidays" %}
-                <a beef="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
+                <a href="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
     </div>

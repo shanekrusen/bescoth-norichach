@@ -3,8 +3,8 @@
 </div>
 <nav class="nav-links" id="nav-links">
     <div class="link"><a href="{{ site.baseurl }}{% link index.html %}"><b>Cintudolâ</b><br />Home</a></div>
-    <div class="link"><a href="{{ site.baseurl }}{% link reading.md %}"><b>Sioxtiuistus</b><br />Reading</a></div>
-    <div class="link" id="theology"><a><b>Deuouistus</b><br />Theology</a></div>
+    <div class="link"><a href="{{ site.baseurl }}{% link reading.md %}"><b>Sioxtiuiđđus</b><br />Reading</a></div>
+    <div class="link" id="theology"><a><b>Deuouiđđus</b><br />Theology</a></div>
     <div class="nav-drop" id="nav-drop">
         <span>Deuoi/Deities</span>
         {% for article in site.articles %}
@@ -12,7 +12,7 @@
                 <a href="{{ article.url }}">&emsp;· {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
-        <span>Bessus/Practice</span>
+        <span>Uediiubessus/Practice</span>
         {% for article in site.articles %}
             {% if article.category == "Practice" %}
                 <a href="{{ article.url }}">&emsp;· {{ article.short_title }}</a>

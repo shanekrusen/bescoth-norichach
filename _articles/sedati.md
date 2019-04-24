@@ -1,11 +1,11 @@
 ---
-title: "Îwos Sedati // Festival of Sedatos"
-short_title: "Îwos Sedati"
+title: "Îuos Sedati // Festival of Sedatos"
+short_title: "Îuos Sedati"
 category: Holidays
 layout: default
 ---
 
-The importance of developing unique religious traditions in a fledgling reconstructed tribal practice has already been explored in depth by others within the community, and a religious tradition so fractionally attested as that of Continental Celtic Polytheism is no stranger to innovation.\[1] It is on these grounds that a new Norican holiday tradtition will here be founded, beginning with a celebration of *Sedatos*, here called *Îwos Sedati* (*Ειουος Σεδατι*). 
+The importance of developing unique religious traditions in a fledgling reconstructed tribal practice has already been explored in depth by others within the community, and a religious tradition so fractionally attested as that of Continental Celtic Polytheism is no stranger to innovation.\[1] It is on these grounds that a new Norican holiday tradtition will here be founded, beginning with a celebration of *Sedatos*, here called *Îuos Sedati* (*Ειουος Σεδατι*). 
 
 In terms on cultural and religious reconstruction/revival, comparative cultural analysis is an invaluable asset.\[2] As has already been discussed in this series\[3], *Sedatos* in associated with Vulcan in *interpretatio Romana*, and is then, by association, also connected with Hephaestos. Because of this association, a fundamental starting point for constructing a holiday tradition in honor of *Sedatos* is the Greco-Roman festivals of Vulcanalia and Chalceia. 
 
@@ -13,7 +13,7 @@ In terms on cultural and religious reconstruction/revival, comparative cultural 
 
 Vulcanalia is the Roman festival in honor of Vulcan.\[4] Several traditions for this festival are attested, and a few are actually helpful in reconstructing a Norican festival for *Sedatos*. Firstly, as can be expected, a large offering was made to Vulcan during the Vulcanalia. As part of the festival, large bonfires were lit. Into them were often thrown fish as a sacrifice.\[5] Another particularly useful attested Vulcanalia custom is that of beginning the day's work by the light of a candle. The point of this tradition was likely rooted in Vulcanus' assoication with fire, and the desire to use such a potentially destructive force productively.\[6] 
 
-Some aspects of Chalceia, the Greek festival of Athena and Hephaestos can also be helpful in constructing *Îwos Sedati*. Chalceia is a festival of Bronze-workers and craftsmanship.\[7] Many of the Chalceia traditions are directly related to Athena as opposed to Hephaestus, and as such many of these traditions themselves are not necessarily helpful. They are, however, helpful in reinforcing some of the conclusions that can be drawn from Vulcanalia. Most importantly, it reinforces the idea of a festival day of work and craftsmanship.\[8]
+Some aspects of Chalceia, the Greek festival of Athena and Hephaestos can also be helpful in constructing *Îuos Sedati*. Chalceia is a festival of Bronze-workers and craftsmanship.\[7] Many of the Chalceia traditions are directly related to Athena as opposed to Hephaestus, and as such many of these traditions themselves are not necessarily helpful. They are, however, helpful in reinforcing some of the conclusions that can be drawn from Vulcanalia. Most importantly, it reinforces the idea of a festival day of work and craftsmanship.\[8]
 
 **In Bessus Noricon:**
 

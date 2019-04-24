@@ -1,5 +1,5 @@
 ---
-title: Resûal Cnughni // Reading List
+title: Sioxtiuiđđus // Further Reading
 layout: default
 ---
 

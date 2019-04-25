@@ -1,11 +1,11 @@
 ---
-title: "Îuos Sedati // Festival of Sedatos"
-short_title: "Îuos Sedati"
+title: "Īuos Sedati // Festival of Sedatos"
+short_title: "Īuos Sedati"
 category: Holidays
 layout: default
 ---
 
-The importance of developing unique religious traditions in a fledgling reconstructed tribal practice has already been explored in depth by others within the community, and a religious tradition so fractionally attested as that of Continental Celtic Polytheism is no stranger to innovation.\[1] It is on these grounds that a new Norican holiday tradtition will here be founded, beginning with a celebration of *Sedatos*, here called *Îuos Sedati* (*Ειουος Σεδατι*). 
+The importance of developing unique religious traditions in a fledgling reconstructed tribal practice has already been explored in depth by others within the community, and a religious tradition so fractionally attested as that of Continental Celtic Polytheism is no stranger to innovation.\[1] It is on these grounds that a new Norican holiday tradtition will here be founded, beginning with a celebration of *Sedatos*, here called *Īuos Sedati* (*Ειουος Σεδατι*). 
 
 In terms on cultural and religious reconstruction/revival, comparative cultural analysis is an invaluable asset.\[2] As has already been discussed in this series\[3], *Sedatos* in associated with Vulcan in *interpretatio Romana*, and is then, by association, also connected with Hephaestos. Because of this association, a fundamental starting point for constructing a holiday tradition in honor of *Sedatos* is the Greco-Roman festivals of Vulcanalia and Chalceia. 
 
@@ -17,11 +17,11 @@ Some aspects of Chalceia, the Greek festival of Athena and Hephaestos can also b
 
 **In Bessus Noricon:**
 
-From the aformentioned evidence, a tentative outline for *Îuos Sedati* can here be set forth. To begin, the day should be spent as a day of service, not of work. So an observer should abstain from attending work on *Îuos Sedati*. Instead, the better part of the day should be spent doing craftsmanship of some sort by the light of a candle. If possible, and celebrating with a group, the *Îuos* should be celebrated with a bonfire. At the end of the day, an offering to *Sedatos* of fish and the product of the day's labor should be made. After the offering is completed, the day can be celebrated with *Sedatos* by joining in a traditional dinner of fish, perhaps clay-baked.\[9]
+From the aformentioned evidence, a tentative outline for *Īuos Sedati* can here be set forth. To begin, the day should be spent as a day of service, not of work. So an observer should abstain from attending work on *Îuos Sedati*. Instead, the better part of the day should be spent doing craftsmanship of some sort by the light of a candle. If possible, and celebrating with a group, the *Īuos* should be celebrated with a bonfire. At the end of the day, an offering to *Sedatos* of fish and the product of the day's labor should be made. After the offering is completed, the day can be celebrated with *Sedatos* by joining in a traditional dinner of fish, perhaps clay-baked.\[9]
 
 **Dating:**
 
-Using a reconstruction of the Gaulish calendar based on the research of Helen McKay, a day for the *Îuos Sedati* can also here be selected. To start, the traditional day of the Vulcanalia can be analysed. Vulcanalia was traditonally celebrated on August 23rd.\[10] Upon observing the alignment of this day with the Gaulish calendar, using the 1999 start year as suggested by Helen McKay, the date of August 23rd would fall somewher around the 5th day of Anagantios. Around this date, there are no particularly interesting notations on the Gaulish calendar.\[11] Chalceia, however, is traditionally celebrated on the last day of *Pyanepsion (Πυανεψιών)*\[12], a month in the Athenian lunisolar calendar which lines up with October/November.\[13] According to the Gaulish calendar, the corresponding month would be Cutios, the last day of which is part of an *Îuos* run.\[14] It is therefore proposed here that *Îuos Sedati* be celebrated on the last day of Cutios.
+Using a reconstruction of the Gaulish calendar based on the research of Helen McKay, a day for the *Īuos Sedati* can also here be selected. To start, the traditional day of the Vulcanalia can be analysed. Vulcanalia was traditonally celebrated on August 23rd.\[10] Upon observing the alignment of this day with the Gaulish calendar, using the 1999 start year as suggested by Helen McKay, the date of August 23rd would fall somewher around the 5th day of Anagantios. Around this date, there are no particularly interesting notations on the Gaulish calendar.\[11] Chalceia, however, is traditionally celebrated on the last day of *Pyanepsion (Πυανεψιών)*\[12], a month in the Athenian lunisolar calendar which lines up with October/November.\[13] According to the Gaulish calendar, the corresponding month would be Cutios, the last day of which is part of an *Īuos* run.\[14] It is therefore proposed here that *Īuos Sedati* be celebrated on the last day of Cutios.
 
 **Sources**
 

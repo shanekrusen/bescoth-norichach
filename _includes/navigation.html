@@ -2,7 +2,7 @@
     <img class="title" src="{{ '/assets/img/title.png' | relative_url }}">
 </div>
 <nav class="nav-links" id="nav-links">
-    <div class="link"><a href="{{ site.baseurl }}{% link index.html %}"><b>Cintudolâ</b><br />Home</a></div>
+    <div class="link"><a href="{{ site.baseurl }}{% link index.html %}"><b>Cintudolā</b><br />Home</a></div>
     <div class="link"><a href="{{ site.baseurl }}{% link reading.md %}"><b>Sioxtiuiđđus</b><br />Reading</a></div>
     <div class="link" id="theology"><a><b>Deuouiđđus</b><br />Theology</a></div>
     <div class="nav-drop" id="nav-drop">
@@ -18,9 +18,15 @@
                 <a href="{{ article.url }}">&emsp;· {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
-        <span>Îuoi/Holidays</span>
+        <span>Īuoi/Holidays</span>
         {% for article in site.articles %}
             {% if article.category == "Holidays" %}
+                <a href="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
+            {% endif %}
+        {% endfor %}
+        <span>Spetlā/Myths</span>
+        {% for article in site.articles %}
+            {% if article.category == "Myths" %}
                 <a href="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}

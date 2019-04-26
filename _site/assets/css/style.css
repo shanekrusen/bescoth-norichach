@@ -2,7 +2,8 @@ html, body {
   height: 100%; }
 
 body {
-  margin: 0px; }
+  margin: 0px;
+  overflow-y: scroll; }
 
 body a {
   color: #ED2939; }
@@ -82,7 +83,7 @@ body a {
   padding: 10px;
   display: block;
   text-decoration: none;
-  height: 50px;
+  height: 30px;
   display: flex;
   align-items: center;
   border-bottom: 1px solid gainsboro;

@@ -8,6 +8,7 @@ html, body {
 
 body {
   margin: 0px;
+  overflow-y: scroll;
 }
 
 body a {
@@ -100,7 +101,7 @@ body a {
     padding: 10px;
     display: block;
     text-decoration: none;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-items: center;
     border-bottom: 1px solid gainsboro;

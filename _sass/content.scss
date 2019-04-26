@@ -56,10 +56,16 @@ h2, h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  
+  justify-content: center; 
 }
 
+.sidebar a {
+}
+
+a img {
+    display: block;
+    margin: 0 auto;
+}
 
 .sidebar img {
     max-width: 60%;

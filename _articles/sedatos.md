@@ -19,7 +19,7 @@ In Bessus Noricon, *Sedatos*, will be a God of craft and metalwork of all kinds,
 
 **Interpretatio:**
 
-*Sêdhath* is often conflated with Volcanus, who was worshipped in a similar area.\[6]
+*Sedatos* is often conflated with Volcanus, who was worshipped in a similar area.\[6]
 
 **Iconography:**
 

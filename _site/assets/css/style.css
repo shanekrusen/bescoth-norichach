@@ -188,6 +188,10 @@ h2, h3 {
   align-items: center;
   justify-content: center; }
 
+a img {
+  display: block;
+  margin: 0 auto; }
+
 .sidebar img {
   max-width: 60%; }
 

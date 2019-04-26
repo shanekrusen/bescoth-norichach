@@ -15,7 +15,7 @@ It is worth being honest about the divided nature of interpretations of *Smertri
 
 **In Practice:**
 
-In light of these analyses, a larger picture of *Smertrios* seems to emerge. In Bessus Noricon, *Smertrios* is a hero-God. He is closely associated with protecting and providing for the people, as well as ensuring new heroes fulfill their destiny as ordained by providence.
+In light of these analyses, a larger picture of *Smertrios* seems to emerge. In Bessus Noricon, *Smertrios* is a hero-God. He is closely associated with protecting and providing for the people, as well as ensuring new heroes fulfill their destiny as ordained by providence. In this sense, Smertrios is probably more important that any other Norican deity in the Nertobessus Noricon. 
 
 **Interpretatio:**
 

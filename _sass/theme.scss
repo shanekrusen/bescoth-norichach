@@ -85,12 +85,13 @@ body a {
 }
 
 .nav-drop {
-    width: 100%;
+    width: 75%;
     display: none;
     position: fixed;
     top: 0;
+    left: 0;
     background-color: white;
-    z-index: 3;
+    z-index: 4;
     height: 100%;
     overflow-y: scroll;
 }
@@ -122,6 +123,15 @@ body a {
     border: none;
     text-align: center;
     color: gainsboro;
+}
+
+#shader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    background-color: rgba(0,0,0,.5);
+    display: none;
 }
 
 .spacer {

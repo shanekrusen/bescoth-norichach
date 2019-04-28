@@ -87,32 +87,41 @@ body a {
 .nav-drop {
     width: 100%;
     display: none;
-    position: absolute;
-    top: 50px;
+    position: fixed;
+    top: 0;
     background-color: white;
-    box-shadow: 0 1px 1px 1px rgba(0,0,0,.2);
-    left: 0%;
-    z-index: 1;
+    z-index: 3;
+    height: 100%;
+    overflow-y: scroll;
 }
 
 .nav-drop * {
+    color: $red;
     width: 100%;
     box-sizing: border-box;
     padding: 10px;
     display: block;
     text-decoration: none;
-    height: 30px;
+    height: 50px;
     display: flex;
     align-items: center;
     border-bottom: 1px solid gainsboro;
     font-weight: bold;
 }
 
-#menu-close {
-  height: 25px;
-  color: $red;
-  border-bottom: none;
-  text-align: right;
+#nav-close {
+  display: flex;
+  justify-content: flex-end;
+  border-bottom:none;
+}
+
+#close-button {
+    width: auto;
+    height: auto;
+    padding: 0;
+    border: none;
+    text-align: center;
+    color: gainsboro;
 }
 
 .spacer {

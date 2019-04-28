@@ -15,4 +15,8 @@ $(document).ready(function() {
   $( "#theology").click(function() {
     $( "#nav-drop" ).slideToggle();
   });
+    
+  $( "#close-button").click(function() {
+    $( "#nav-drop" ).slideToggle();
+  });
 });

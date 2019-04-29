@@ -40,14 +40,24 @@ body a {
 
 .nav-links {
   width: 100%;
-  height: 50px;
+  min-height: 50px;
   color: $red;
-  box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
   display: flex;
+  flex-direction: column;
   background-color: white;
   z-index: 2;
   position: relative;
   justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.nav-base {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,0.2);
+    z-index: 4;
 }
 
 .sticky {
@@ -56,12 +66,9 @@ body a {
 }
 
 .link {
-  width: 33%;
-  display: inline-block;
+  width: 32%;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-block;
   cursor: pointer;
 }
 
@@ -85,14 +92,11 @@ body a {
 }
 
 .nav-drop {
-    width: 75%;
+    width: 100%;
     display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
     background-color: white;
-    z-index: 4;
-    height: 100%;
+    z-index: 3;
+    height: auto;
     overflow-y: scroll;
 }
 
@@ -108,30 +112,6 @@ body a {
     align-items: center;
     border-bottom: 1px solid gainsboro;
     font-weight: bold;
-}
-
-#nav-close {
-  display: flex;
-  justify-content: flex-end;
-  border-bottom:none;
-}
-
-#close-button {
-    width: auto;
-    height: auto;
-    padding: 0;
-    border: none;
-    text-align: center;
-    color: gainsboro;
-}
-
-#shader {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: 3;
-    background-color: rgba(0,0,0,.5);
-    display: none;
 }
 
 .spacer {

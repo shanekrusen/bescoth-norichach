@@ -30,26 +30,32 @@ body a {
 
 .nav-links {
   width: 100%;
-  height: 50px;
+  min-height: 50px;
   color: #ED2939;
-  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
   display: flex;
+  flex-direction: column;
   background-color: white;
   z-index: 2;
   position: relative;
-  justify-content: space-around; }
+  justify-content: space-around;
+  flex-wrap: wrap; }
+
+.nav-base {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
+  z-index: 4; }
 
 .sticky {
   position: fixed;
   top: 0; }
 
 .link {
-  width: 33%;
-  display: inline-block;
+  width: 32%;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-block;
   cursor: pointer; }
 
 .link a {
@@ -68,14 +74,11 @@ body a {
   cursor: pointer; }
 
 .nav-drop {
-  width: 75%;
+  width: 100%;
   display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
   background-color: white;
-  z-index: 4;
-  height: 100%;
+  z-index: 3;
+  height: auto;
   overflow-y: scroll; }
 
 .nav-drop * {
@@ -90,27 +93,6 @@ body a {
   align-items: center;
   border-bottom: 1px solid gainsboro;
   font-weight: bold; }
-
-#nav-close {
-  display: flex;
-  justify-content: flex-end;
-  border-bottom: none; }
-
-#close-button {
-  width: auto;
-  height: auto;
-  padding: 0;
-  border: none;
-  text-align: center;
-  color: gainsboro; }
-
-#shader {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  z-index: 3;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: none; }
 
 .spacer {
   width: 100%;
@@ -222,13 +204,3 @@ a img {
 
   .content-container {
     width: 100%; } }
-@media only screen and (min-width: 768px) {
-  .card {
-    width: 45%; }
-
-  .a-card {
-    width: 100%; }
-
-  .card-link {
-    display: flex;
-    width: 49%; } }

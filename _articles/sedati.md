@@ -17,7 +17,7 @@ Some aspects of Chalceia, the Greek festival of Athena and Hephaestos can also b
 
 **In Bessus Noricon:**
 
-From the aformentioned evidence, a tentative outline for *Īuos Sedati* can here be set forth. To begin, the day should be spent as a day of service, not of work. So an observer should abstain from attending work on *Îuos Sedati*. Instead, the better part of the day should be spent doing craftsmanship of some sort by the light of a candle. If possible, and celebrating with a group, the *Īuos* should be celebrated with a bonfire. At the end of the day, an offering to *Sedatos* of fish and the product of the day's labor should be made. After the offering is completed, the day can be celebrated with *Sedatos* by joining in a traditional dinner of fish, perhaps clay-baked.\[9]
+From the aformentioned evidence, a tentative outline for *Īuos Sedati* can here be set forth. To begin, the day should be spent as a day of service, not of work. So an observer should abstain from attending work on *Īuos Sedati*. Instead, the better part of the day should be spent doing craftsmanship of some sort by the light of a candle. If possible, and celebrating with a group, the *Īuos* should be celebrated with a bonfire. At the end of the day, an offering to *Sedatos* of fish and the product of the day's labor should be made. After the offering is completed, the day can be celebrated with *Sedatos* by joining in a traditional dinner of fish, perhaps clay-baked.\[9]
 
 **Dating:**
 

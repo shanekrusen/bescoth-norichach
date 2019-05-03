@@ -1,6 +1,6 @@
 ---
 title: "Rigobrogis Noricon // The Norican Kingdom"
-short_title: "Rixaxtā Noricon"
+short_title: "Rigobrogis Noricon"
 category: Culture
 layout: default
 ---

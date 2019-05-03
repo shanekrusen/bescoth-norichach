@@ -1,0 +1,20 @@
+{
+  "short_name": "Bessus Noricon",
+  "name": "Bessus Noricon",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/favicons/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ED2939",
+  "display": "standalone",
+  "theme_color": "#ED2939"
+}

@@ -32,5 +32,11 @@
                 <a href="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
             {% endif %}
         {% endfor %}
+        <span>Toutās/Tribes</span>
+        {% for article in site.articles %}
+            {% if article.category == "Culture" %}
+                <a href="{{ article.url }}">&emsp;·  {{ article.short_title }}</a>
+            {% endif %}
+        {% endfor %}
     </div>
 </nav>

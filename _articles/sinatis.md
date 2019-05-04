@@ -17,7 +17,7 @@ It should come as no surprise, given the Etymology of His name and its relation 
 
 In Bessus Noricon, *Sinatis* will be a god of justice and right, a virtue commonly associated with the Gaulish idea of "honor".\[6]
 
-**_Interpretatio:_**
+**Interpretatio:**
 
 It is hard to definitively ascribe *Sinatis* a Roman counterpart, although He is attested in an inscription with several other theonyms: MARTI LATOBIO MARMOGIO SINATI TOUTATI Mog\[ET]IO. This could be a dedication two one deity, two, or even six.\[7]\[8]\[9] Given this inscription, it is possible He was associated with Mars.
 

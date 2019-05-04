@@ -1,6 +1,6 @@
 ---
-title: "Rigobrogis Noricon // The Norican Kingdom"
-short_title: "Rigobrogis Noricon"
+title: "Ulatađđus Noricon // The Norican Kingdom"
+short_title: "Ulatađđus Noricon"
 category: Culture
 layout: default
 ---
@@ -15,14 +15,24 @@ Aside from the political reality of the Norican kingship, which besides some nua
 
 | Athens                   | Norici                                                                  |
 |--------------------------|-------------------------------------------------------------------------|
-| No single head of state. | *Rix*                                                                   |
-| Pentakosiomedimnoi       | *Arios/Arioi*                                                           | 
-| Hippeis                  | *Donnos/Donnoi*                                                         |
-| Zeugitae                 | *Cerdos/Cerdoi*                                                         |
-| Thetes                   | *Uassos/Uassoi*                                                         |
-| Metics                   | *Didios/Didioi*, these would likely be Roman traders living in Noricum. |
-| Freed Slaves             | *Ancaxtos/Ancaxtoi*                                                     |
-| Slaves                   | *Caxtos/Caxtoi*                                                         |
+| No single head of state. | *Rix* The Norican King                                                  |
+| Pentakosiomedimnoi       | *Arios/Arioi* The wealthiest aristocrats and landowners                 | 
+| Hippeis                  | *Donnos/Donnoi* The upper middle class                                  |
+| Zeugitae                 | *Cerdos/Cerdoi* The craftsmen and artisans, in this case likely smiths. |
+| Thetes                   | *Uassos/Uassoi* Serfs and wage-workers                                  |
+| Metics                   | *Didios/Didioi* These would likely be Roman traders living in Noricum.  |
+| Freed Slaves             | *Ancaxtos/Ancaxtoi* Former slaves                                       |
+| Slaves                   | *Caxtos/Caxtoi* Current slaves                                          |
+
+<br />
+
+**_Ελευθερία ή Θάνατος_**<br />
+**_Rioađđus ixe Maruos_**<br />
+**_Freedom or Death_**<br />
+
+**_Τέλειο μυαλό και τέλειο σώμα_**<br />
+**_Subarros etic Sucrif_**<br />
+**_Good Mind and Good Body_**<br />
 
 **Sources**
 

@@ -175,6 +175,20 @@ h2, h3 {
 .deity-image img {
   max-width: 80%; }
 
+tbody {
+  text-align: center; }
+
+td {
+  border: 1px solid #ED2939; }
+
+p strong em {
+  color: #ED2939; }
+
+p strong {
+  width: 100%;
+  text-align: center;
+  display: block; }
+
 .sidebar {
   width: 25%;
   background-color: white;

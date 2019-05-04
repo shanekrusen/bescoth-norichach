@@ -1,3 +1,5 @@
+$red: #ED2939;
+
 .body {
   color: rgba(0,0,0,.84);
   font-family: Georgia, Times, serif;
@@ -44,6 +46,24 @@ h2, h3 {
 
 .deity-image img {
     max-width: 80%;
+}
+
+tbody {
+    text-align: center;
+}
+
+td {
+    border: 1px solid $red;
+}
+
+p strong em {
+    color: $red;
+}
+
+p strong {
+    width: 100%;
+    text-align: center;
+    display: block;
 }
 
 .sidebar {

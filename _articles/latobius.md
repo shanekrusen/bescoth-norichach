@@ -17,7 +17,7 @@ It is possible that *Latobius* is the titular tribal god of the Latobici.\[5] Th
 
 In Bessus Noricon, *Latobius* will be a god similar to *Belinos*, of particualr interest to the Latobici. He will oversee elements of healing, the solar cult, the water cult, of a *psychopomp*, and of combat. In this interpretation, he will be of particular interest for *Nertobessus Noricon* or Norican athletic cult. 
 
-**_Interpretatio:_**
+**Interpretatio:**
 
 *Latobius* is almost universally equated with Mars.
 

@@ -31,7 +31,7 @@ Aside from the political reality of the Norican kingship, which besides some nua
 **_Freedom or Death_**<br />
 
 **_Τέλειο μυαλό και τέλειο σώμα_**<br />
-**_Subarros Sucrifsc_**<br />
+**_Supēslā Sucrifsc_**<br />
 **_Good Mind and Good Body_**<br />
 
 **Sources**

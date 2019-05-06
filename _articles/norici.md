@@ -21,8 +21,8 @@ Aside from the political reality of the Norican kingship, which besides some nua
 | Zeugitae                 | *Cerdos/Cerdoi* The craftsmen and artisans, in this case likely smiths. |
 | Thetes                   | *Uassos/Uassoi* Serfs and wage-workers                                  |
 | Metics                   | *Didios/Didioi* These would likely be Roman traders living in Noricum.  |
-| Freed Slaves             | *Ancaxtos/Ancaxtoi* Former slaves                                       |
-| Slaves                   | *Caxtos/Caxtoi* Current slaves                                          |
+| ~~Freed Slaves~~         | ~~*Ancaxtos/Ancaxtoi* Former slaves~~                                   |
+| ~~Slaves~~               | ~~*Caxtos/Caxtoi* Current slaves~~                                      |
 
 <br />
 

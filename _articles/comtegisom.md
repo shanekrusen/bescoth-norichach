@@ -1,13 +1,13 @@
 ---
 title: "Īuos Comtegisom // Festival of Unification"
-short_title: "Īuos Comtegianom"
+short_title: "Īuos Comtegisom"
 category: Holidays
 layout: default
 ---
 
 <figure class="deity-image"><img src="{{ '/assets/img/norici-wolf.png' | relative_url }}"></figure>
 
-Just as the similarities between the Athenian and Norican cultures have been explored in this series before\[1], so too will this association be used to further felsh out Norican culture, by using certain Athenian festivals as the basis for Norican innovated ones. To begin, Athens and the Norici are similar also in their apparent hegemonic dominance of other nearby peoples. It is therefore posited here that *Bessus Noricon* will have a festival honoring the political unity of the Norican tribes, taking after the Athenian *Synoikia*.
+Just as the similarities between the Athenian and Norican cultures have been explored in this series before\[1], so too will this association be used to further flesh out Norican culture, by using certain Athenian festivals as the basis for Norican innovated ones. To begin, Athens and the Norici are similar also in their apparent hegemonic dominance of other nearby peoples. It is therefore posited here that *Bessus Noricon* will have a festival honoring the political unity of the Norican tribes, taking after the Athenian *Synoikia*.
 
 Essential to the Athenian *Synoikia* is the hero-cult of the mythical Athenian king, Theseus. Theseus was regarded as the founder of the Athenian state in antiquity, and eventually became the subject of a widespread hero cult, intimately connected with Athenian nationalism\[2]. In this regard, there is no such known foundation myth among the Norici. There are, however, historical accounts of what are very likely the first king of Noricum: Cincibilus.\[3] It is therefore also posited here that Cincibilus will be the subject of a Norican hero-cult as the unifier of the Norican kingdom. This association of *Cincinilus* with Theseus is even more interesting when one considers the motifs of "bull-slaying" prominent in the cult of Theseus.\[4] This becomes especially relevant when considering that *Cincibilus'* rise to power likely would have necessitated a subjugation war against the *Taurisci*, an ethnonym which De Bernardo Stempel interprets as "Tribe of the Bull".\[5] It therefore follows also to posit the worship of *Cincibilus* as *Cincibilus Taurouanos*. 
 

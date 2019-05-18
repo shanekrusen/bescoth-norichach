@@ -7,7 +7,7 @@ layout: default
 
 **Etymology:**
 
-De Bernardo Stempal, following Vendryes and Duval, gives the etymological form \**smer-t<sup>e</sup>r-yo-s*, from the root \**smer-*, meaning something to the tune of "the idea of foresight and provision, the preparations that need to be made and the precautions that need to be taken, regarding destiny ordained by Providence." From this, the full meaning of His name is interpreted as "the Predictor" or "the Provider".\[1]
+De Bernardo Stempel, following Vendryes and Duval, gives the etymological form \**smer-t<sup>e</sup>r-yo-s*, from the root \**smer-*, meaning something to the tune of "the idea of foresight and provision, the preparations that need to be made and the precautions that need to be taken, regarding destiny ordained by Providence." From this, the full meaning of His name is interpreted as "the Predictor" or "the Provider".\[1]
 
 **Function:**
 

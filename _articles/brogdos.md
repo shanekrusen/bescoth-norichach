@@ -7,7 +7,7 @@ layout: default
 
 **Etymology:**
 
-*Brogdos* has the esteemed honor of being the only Celtic deity attested in an actual Celtic inscription within Noricum, from a funerary vase inscribed with "ARTEBUDZ BROGDUI". His name is interpreted as coming from celtic \**-brog(i)*\[1], meaning 'territory, region, frontier, border'.\[2]
+*Brogdos* has the esteemed honor of being the only Celtic deity attested in an actual Celtic inscription within Noricum, from a funerary vase inscribed with "ARTEBUDZ BROGDUI". His name is interpreted as coming from celtic \**brog(i)-*\[1], meaning 'territory, region, frontier, border'.\[2]
 
 **Function:**
 

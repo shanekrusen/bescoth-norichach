@@ -1,6 +1,6 @@
 ---
-title: "Acaunos/Saxanus"
-short_title: "Acaunos/Saxanus"
+title: "Acaunos/Carnios/Saxanus"
+short_title: "Acaunos/Carnios/Saxanus"
 category: Deities
 layout: default
 ---

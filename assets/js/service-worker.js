@@ -1,4 +1,4 @@
-const LATEST_CACHE_ID = 'v17';
+const LATEST_CACHE_ID = 'v18';
 
 self.addEventListener('install', function(e) {
   e.waitUntil(
@@ -38,6 +38,7 @@ self.addEventListener('install', function(e) {
         '/assets/img/norici-wolf.png'
         '/assets/img/norici.png'
         '/assets/img/noricum.png'
+        '/assets/img/savos.png'
         '/assets/img/saxanus.png'
         '/assets/img/sedatos.png'
         '/assets/img/sinatis.png'
@@ -56,6 +57,7 @@ self.addEventListener('install', function(e) {
         '/articles/latobius.html'
         '/articles/litalus.html'
         '/articles/oinouiros.html'
+        '/articles/savos.html'
         '/articles/sedati.html'
         '/articles/sedatos.html'
         '/articles/sinatis.html'

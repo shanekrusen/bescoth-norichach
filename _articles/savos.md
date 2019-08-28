@@ -23,6 +23,8 @@ As all river deities are incredibly localized, the closest Roman deity to *Savus
 
 **Iconography:**
 
+Although unknown in Norican art, it is possible to infer some iconography for *Savus* from the iconography of other cultures in antiquity. Older depictions of river gods in Roman, Greek, and Etruscan art are both anthropomorphic and zoomorphic, potentially with the implication that they are shape-shifter (which my stem from the fluid nature of rivers). They also appear on antifixes and occasionally as border decoration on shields, which may indicate a liminal nature of rivers and their patron deities. This ancient depiction, however, seems to have been overturned in river deities important to the national identity of a state, such as Tiberinus was to Rome. Tiberinus is depicted as an older man, reclined, and sometimes alongside a cornucopia or an oar.\[12] These attributes, due to the *Sava* rivers importance to the identity of the Norican region, seem more fitting for *Savus*.
+
 <figure class="deity-image"><img src="{{ '/assets/img/savos.png' | relative_url }}"></figure>
 
 **Sources**
@@ -48,3 +50,5 @@ As all river deities are incredibly localized, the closest Roman deity to *Savus
 10. Pre-Roman Divinities of the Eastern Alps and Adriatic by Marjeta Šašel Kos, 1999, p. 113
 
 11. A Sacred River Landscape with a Sanctuary, The Worship of Rivers in the South-Eastern Alpine Area by Marjeta Šašel Kos, 2017, pp. 451-453
+
+12. The Nature and Function of Water, Baths, Bathing, and Hygiene from Antiquity Through the Renaissance by Cynthia Kosso and Anne Scott, 2009, pp. 235-244

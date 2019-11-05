@@ -7,7 +7,7 @@ service_worker = File.open('./assets/js/service-worker.js')
 service_worker = service_worker.readlines
 serv_work_ver = service_worker[0][/\'v(.*?)\'\;/, 1].to_i
 serv_work_ver += 1
-new_serv_work_line = "const LATEST_CACHE_ID = 'v#{serv_work_ver}';"
+new_serv_work_line = "const LATEST_CACHE_ID = 'v#{serv_work_ver}';\n"
 
 File.open('./assets/js/service-worker.js', 'w') {}
 new_serv_worker = File.new('./assets/js/service-worker.js', 'a')
@@ -22,7 +22,7 @@ new_serv_worker.write(
 )
 
 file_list.each { |file|
-    new_serv_worker.write("         '" + file + "'\n")
+    new_serv_worker.write("         '" + file + "',\n")
 }
 
 new_serv_worker.write(

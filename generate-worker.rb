@@ -51,8 +51,3 @@ self.addEventListener('fetch', function(event) {
   );
 });"    
 )
-
-system("git add --all")
-comment = gets.chomp
-system("git commit -am '#{comment}'")
-system("git push origin master")

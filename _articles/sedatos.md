@@ -23,7 +23,7 @@ In Bessus Noricon, *Sedatos*, will be a God of craft and metalwork of all kinds,
 
 **Iconography:**
 
-Although not much is known about symbolic aspects of the cult of *Sêdhath*, it is not unreasonable to assume that He would have been represented by symbols of the forge or of craftwork, such as the apron, the hammer, and the anvil. 
+Although not much is known about symbolic aspects of the cult of *Sedatos*, it is not unreasonable to assume that He would have been represented by symbols of the forge or of craftwork, such as the apron, the hammer, and the anvil. 
 
 <figure class="deity-image"><img src="{{ '/assets/img/sedatos.png' | relative_url }}"></figure>
 

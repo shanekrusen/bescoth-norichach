@@ -1,4 +1,4 @@
-const LATEST_CACHE_ID = 'v26';
+const LATEST_CACHE_ID = 'v27';
 
 self.addEventListener('install', function(e) {
   e.waitUntil(
@@ -83,8 +83,8 @@ self.addEventListener('install', function(e) {
          '/reading.html',
          '/CNAME',
          '/favicon.ico',
+         '/generate-worker.rb',
          '/manifest.json',
-         '/upload-patch.rb',
       ]);
     })
   );

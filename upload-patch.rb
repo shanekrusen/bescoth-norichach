@@ -9,7 +9,7 @@ serv_work_ver = service_worker[0][/\'v(.*?)\'\;/, 1].to_i
 serv_work_ver += 1
 new_serv_work_line = "const LATEST_CACHE_ID = 'v#{serv_work_ver}';"
 
-File.open('./assets/js/service-worker.js', 'w') {}
+clear = File.open('./assets/js/service-worker.js', 'w') {}
 new_serv_worker = File.new('./assets/js/service-worker.js', 'a')
 
 new_serv_worker.write(new_serv_work_line + "\n")

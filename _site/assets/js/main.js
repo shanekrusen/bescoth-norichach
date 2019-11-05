@@ -17,5 +17,7 @@ $(document).ready(function() {
       }).catch(function(err) {
           console.log("No it didn't. This happened:", err)
       });
+    } else {
+        console.log("Apparently not supported");   
     }
 });

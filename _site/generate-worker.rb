@@ -51,12 +51,3 @@ self.addEventListener('fetch', function(event) {
   );
 });"    
 )
-
-new_serv_worker.close
-sleep 10
-
-system("git add --all")
-puts "Enter commit comment:"
-comment = gets.chomp
-system("git commit -am '#{comment}'")
-system("git push origin master")

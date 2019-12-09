@@ -1,4 +1,4 @@
-const LATEST_CACHE_ID = 'v32';
+const LATEST_CACHE_ID = 'v33';
 
 self.addEventListener('install', function(e) {
   e.waitUntil(

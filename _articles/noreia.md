@@ -13,7 +13,7 @@ The deeper one digs for information on the pre-Roman religion and cult practices
 
 Although the question of Her name's etymology is not yet settled, it likely originated from one of two sources: that of a Celtic or that of a pre-Celtic origin. Although Šašel Kos, citing Hedwig Kenner, classifies the name as 'most likely pre-Celtic' (the implication being either Illyrian or Venetic)\[1\], the more recent proposition of de Bernardo Stempel seems better founded, especially in light of new research and the collaborative efforts of F.E.R.C.AN. De Bernardo Stempel suggests Noreia as a detoponym, i.e. a divine name from a place name (in this case, the historical town of 'Noreia'). She suggests the toponym being itself derived from the ethnonym 'Norici' via suffix-replacement of *-eia* for *-ici*. He then has 'Norici' breaking down as the plural of the Celtic \**nor-iko-s* ('the manly'), from IE \**noro-*, 'manly, strong'\[2\]. In short, Noreia likely takes her name, ultimately, from the name of the tribe she patronized, via the name of their historical capital.
 
-It is worth mentioning that She seems to appear in one dedication as 'Veica Noriceia', although this is now understood to refer, simply, to a "Norican" goddess of the name Veica.\[4\] 
+It is worth mentioning that She seems to appear in one dedication as 'Veica Noriceia', although this is now understood to refer, simply, to a "Norican" goddess of the name Veica.\[4] 
 
 **Function:** 
 

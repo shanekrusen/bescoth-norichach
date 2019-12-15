@@ -1,4 +1,4 @@
-const LATEST_CACHE_ID = 'v35';
+const LATEST_CACHE_ID = 'v36';
 
 self.addEventListener('install', function(e) {
   e.waitUntil(
@@ -40,6 +40,7 @@ self.addEventListener('install', function(e) {
          '/assets/img/brixta-2.png',
          '/assets/img/brogdos.png',
          '/assets/img/carvonia.png',
+         '/assets/img/eracura.png',
          '/assets/img/header-back.jpg',
          '/assets/img/latobius.png',
          '/assets/img/minima-social-icons.svg',
@@ -55,7 +56,9 @@ self.addEventListener('install', function(e) {
          '/assets/img/title.png',
          '/assets/img/touta.png',
          '/assets/img/veica.png',
-         '/assets/img/eracura.png',
+         '/assets/img/reitia-1.png',
+         '/assets/img/reitia-2.png',
+         '/assets/img/reitia-3.png',
          '/assets/js',
          '/assets/js/jquery.js',
          '/assets/js/main.js',
@@ -85,6 +88,7 @@ self.addEventListener('install', function(e) {
          '/articles/badetus.html',
          '/articles/brixta.html',
          '/articles/eracura.html',
+         '/articles/reitia.html',
          '/reading.html',
          '/CNAME',
          '/favicon.ico',

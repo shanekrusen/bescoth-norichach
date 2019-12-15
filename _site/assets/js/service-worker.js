@@ -1,4 +1,4 @@
-const LATEST_CACHE_ID = 'v31';
+const LATEST_CACHE_ID = 'v35';
 
 self.addEventListener('install', function(e) {
   e.waitUntil(
@@ -36,6 +36,8 @@ self.addEventListener('install', function(e) {
          '/assets/img/badetus-2.png',
          '/assets/img/belin.png',
          '/assets/img/body-background.jpg',
+         '/assets/img/brixta-1.png',
+         '/assets/img/brixta-2.png',
          '/assets/img/brogdos.png',
          '/assets/img/carvonia.png',
          '/assets/img/header-back.jpg',
@@ -53,6 +55,7 @@ self.addEventListener('install', function(e) {
          '/assets/img/title.png',
          '/assets/img/touta.png',
          '/assets/img/veica.png',
+         '/assets/img/eracura.png',
          '/assets/js',
          '/assets/js/jquery.js',
          '/assets/js/main.js',
@@ -80,11 +83,13 @@ self.addEventListener('install', function(e) {
          '/articles/veica.html',
          '/articles/savos.html',
          '/articles/badetus.html',
+         '/articles/brixta.html',
+         '/articles/eracura.html',
          '/reading.html',
          '/CNAME',
          '/favicon.ico',
-         '/generate-worker.rb',
          '/manifest.json',
+         '/upload.rb',
       ]);
     })
   );
